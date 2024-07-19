@@ -94,6 +94,7 @@ body {
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
+  line-height: 1.11;
 }
 
 .title-img {
@@ -140,7 +141,6 @@ body {
 }
 
 .our-portofolio-images {
-  line-height: 1.11;
-  height: 300px;
-  width: 360px;
+  height: 300;
+  width: 360;
 }
