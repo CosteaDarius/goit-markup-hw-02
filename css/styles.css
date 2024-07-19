@@ -82,17 +82,23 @@ color: #2e2f42;
 .text-feture {
   font-size: 16px;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.tird-section{
+background-color: #F4F4FD;
 }
 
 .title-our-team {
   font-size: 36px;
   font-weight: 700;
-  line-height: 40px;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-align: center;
+  text-transform: capitalize;
 }
 
 .team-person-name {
