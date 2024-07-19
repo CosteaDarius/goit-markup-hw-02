@@ -24,7 +24,7 @@ body {
   color: #2e2f42;
 }
 
-.buttons:hover, .buttons:active {
+.buttons:hover, .buttons:focus {
   color: #404bbf;
 }
 
@@ -32,13 +32,10 @@ body {
 font-style: normal;
 }
 
-.info-contact:hover, .info-contact:active {
+.info-contact:hover, .info-contact:focus {
   color: #404bbf;
 }
 
-.info-contact {
-color: #434455;
-}
 
 /* Main */
 .title {
