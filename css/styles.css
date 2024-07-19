@@ -24,8 +24,7 @@ body {
   color: #2e2f42;
 }
 
-.buttons:hover,
-.buttons:active {
+.buttons:active{
   color: #404bbf;
 }
 
@@ -114,6 +113,10 @@ body {
 }
 
 /* Footer */
+.footer {
+  background-color: #2e2f42;
+}
+
 .footer-text-description {
   font-size: 16px;
   font-weight: 400;
@@ -136,6 +139,4 @@ body {
   color: #f4f4fd;
 }
 
-.footer {
-  background-color: #2e2f42;
-}
+
