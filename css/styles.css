@@ -70,14 +70,14 @@ background-color: #2e2f42;
   background-color: #404BBF;
 }
 
-.title-feature {
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  font-weight: 500;
-  color: #2e2f42;
+.title-feature-1 {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
 }
+
 
 .text-feture {
   font-size: 16px;
