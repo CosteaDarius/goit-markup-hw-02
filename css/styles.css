@@ -24,10 +24,21 @@ body {
   color: #2e2f42;
 }
 
-.buttons:hover, .buttons:visited, .buttons:active {
+.buttons:hover, .buttons:active {
   color: #404bbf;
 }
 
+.address {
+font-style: normal;
+}
+
+.info-contact:hover, .info-contact:active {
+  color: #404bbf;
+}
+
+.info-contact {
+color: #434455;
+}
 
 /* Main */
 .title {
