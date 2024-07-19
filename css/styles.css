@@ -24,9 +24,10 @@ body {
   color: #2e2f42;
 }
 
-.buttons:active{
+.buttons:hover {
   color: #404bbf;
 }
+
 
 /* Main */
 .title {
