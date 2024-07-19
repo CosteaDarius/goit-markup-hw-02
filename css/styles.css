@@ -9,6 +9,7 @@ body {
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 .info {
@@ -104,7 +105,7 @@ body {
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.02em;
-  color: #f4f4fd;
+  color: #F4F4FD;
 }
 
 .logo {
@@ -122,7 +123,7 @@ body {
 }
 
 first-second-button {
-  color: #2e2f42;
+color: #2e2f42;
 }
 
 .first-second-button:hover {
@@ -130,13 +131,17 @@ first-second-button {
 }
 
 .first-second-button:focus {
-  color: #404bbf;
+  color:  #404bbf;
 }
 
 .contacts-button {
+
 }
 
 .our-portofolio-images {
   width: 360px;
-  height: 300px;
+height: 300px;
+gap: 0px;
+opacity: 0px;
+
 }
