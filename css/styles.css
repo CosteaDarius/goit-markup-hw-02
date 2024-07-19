@@ -121,26 +121,17 @@ body {
   background-color: #2e2f42;
 }
 
-first-second-button {
+.buttons {
 color: #2e2f42;
 }
 
-.first-second-button:hover {
+.buttons:hover,
+.buttons:active {
   color: #404bbf;
 }
 
-.first-second-button:focus {
-  color:  #404bbf;
-}
-
-.contacts-button {
-
-}
 
 .our-portofolio-images {
   width: 360px;
 height: 300px;
-gap: 0px;
-opacity: 0px;
-
 }
