@@ -107,3 +107,11 @@ body {
   letter-spacing: 0.02em;
   color: #e7e9fc;
 }
+
+.logo {
+font-family: Raleway;
+font-size: 18px;
+font-weight: 700;
+line-height: 21px;
+letter-spacing: 0.03em;
+}
