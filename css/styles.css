@@ -121,3 +121,18 @@ body {
 .footer {
   background-color: #2e2f42;
 }
+
+.studio-button {
+color: #2e2f42;
+}
+
+.studio-button:hover {
+  color: #404bbf;
+}
+.portofolio-button {
+
+}
+
+.contacts-button {
+
+}
