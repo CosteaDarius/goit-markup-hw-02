@@ -67,7 +67,7 @@ background-color: #2e2f42;
 }
 
 .main.button:hover, .main.button:focus{
-  color: #404BBF;
+  background-color: #404BBF;
 }
 
 .title-feature {
