@@ -24,7 +24,7 @@ body {
   color: #2e2f42;
 }
 
-.buttons:hover {
+.buttons:hover, .buttons:visited, .buttons:active {
   color: #404bbf;
 }
 
