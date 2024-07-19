@@ -113,6 +113,30 @@ body {
   color: #434455;
 }
 
+.images-bank {
+  width: 360;
+}
+
+.images-payment {
+  width: 360;
+}
+
+.images-meditation {
+  width: 360;
+}
+
+.images-taxi {
+  width: 360;
+}
+
+.images-screen {
+  width: 360;
+}
+
+.images-courses {
+  width: 360;
+}
+
 /* Footer */
 .footer-text-description {
   font-size: 16px;
@@ -138,9 +162,4 @@ body {
 
 .footer {
   background-color: #2e2f42;
-}
-
-.our-portofolio-images {
-  height: 300;
-  width: 360;
 }
